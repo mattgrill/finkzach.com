@@ -1,0 +1,6 @@
+@media only screen and (max-width: 568px){
+  html,
+  body {
+    -webkit-text-size-adjust: none;
+  }
+}
